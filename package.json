@@ -1,11 +1,22 @@
 {
   "name": "widgets-loader",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "widget loader for webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gabyliu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyliu/widgets-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabyliu/widgets-loader/issues"
+  },
+  "homepage": "https://github.com/gabyliu/widgets-loader#readme"
 }

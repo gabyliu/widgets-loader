@@ -52,7 +52,7 @@ module.exports = {
 //和babel一起
 //user with babel
 var babelPresets = {presets: ['react', 'es2015']},
-    packagePresets = {widgets: __dirname + '/src/widgets/'};//你组件的目录地址
+    packagePresets = {widgets: __dirname + '/src/widgets/'};//你组件的目录地址。your directory address of widgets
 module.exports = {
     module: {
         loaders: [

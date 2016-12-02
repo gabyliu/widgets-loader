@@ -1,0 +1,11 @@
+{
+  "name": "widgets-loader",
+  "version": "1.2.1",
+  "description": "widget loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabyliu",
+  "license": "ISC"
+}
